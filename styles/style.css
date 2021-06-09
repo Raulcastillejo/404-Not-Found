@@ -159,7 +159,7 @@ button:focus,button:hover{
 
 /********************************************************/
 
- @media (max-width: 375px) {
+ @media (max-width: 600px) {
     
     body{
         margin: 0;
