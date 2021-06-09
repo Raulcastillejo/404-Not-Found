@@ -119,6 +119,36 @@ button:focus,button:hover{
     
 
 }
+
+/*my footer---------------------------------------------------------*/
+
+ /* unvisited link */
+ .footer:link {
+    
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  .footer:visited {
+    color:orange;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  .footer:hover {
+    transition: color .2s;
+    color: purple;
+    text-decoration: none;
+      
+} 
+  /* selected link */
+  .footer:active {
+    text-decoration: none;
+  } 
+
+
+/**********************************************************************/
+
  footer{
     position: absolute;
     width: 287px;
